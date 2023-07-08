@@ -15,7 +15,8 @@
 - Viewing open source code that appears to be obfuscated
 
 ### 😍 Things I like
-- Pulling pranks on beginners who have just started coding
+- Develop Flutter Packages
+- Referencing or improving on good app design
 
 <!--
 **MTtankkeo/MTtankkeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
