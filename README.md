@@ -1,8 +1,6 @@
 ### 🌐 Useable Language
 - Google Dart
-- C
-- C++
-- C#
+- C, CPP, C#
 - Java
 - Javascript
 
