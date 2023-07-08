@@ -7,7 +7,7 @@
 - Javascript
 
 ### 🤪 Development I Pursue
-- Develop quality and customizable packages
+- Develop customizable, performant, and quality open source packages
 
 ### 🤬 Dislikes
 
