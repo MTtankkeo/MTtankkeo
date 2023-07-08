@@ -2,9 +2,8 @@
 
 ### 🌐 Useable Language
 - Google Dart `Main`
-- C, CPP, C#
-- Java
-- Javascript
+- C, CPP, C# `Sub`
+- Java, Javascript `Native`
 
 ### 🤪 Development I Pursue
 - Develop customizable, performant, and quality open source packages
