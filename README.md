@@ -7,9 +7,9 @@
 - Javascript
 
 ### 🤪 Development I Pursue
-- Develop customizable, performant, and quality open source packages
-- Develop quality and performant app
-- Develop App with a stylish designs
+- Develop `customizable`, `performant`, and `quality` open source packages
+- Develop `quality` and `performant` app
+- Develop App with a `stylish designs`
 
 ### 🤬 Dislikes
 - Viewing open source code that appears to be obfuscated
