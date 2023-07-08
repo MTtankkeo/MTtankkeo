@@ -1,10 +1,15 @@
+# 😋 Hello World !!!
+
 ### 🌐 Useable Language
 - Google Dart
 - C, CPP, C#
 - Java
 - Javascript
 
-### 🤪 I'll tell you what I'm after.
+### 🤪 Development I Pursue
+- Develop quality and customizable packages
+
+### 🤬 Dislikes
 
 <!--
 **MTtankkeo/MTtankkeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
