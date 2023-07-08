@@ -14,6 +14,9 @@
 ### 🤬 Dislikes
 - Viewing open source code that appears to be obfuscated
 
+### 😍 Things I like
+- Coding beginner who is just starting to code
+
 <!--
 **MTtankkeo/MTtankkeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
