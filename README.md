@@ -1,4 +1,4 @@
-## 😋 Hello World !!!
+# 🤫 Hello World !!!
 
 ### 🌐 Useable Language
 - Google Dart `Main`
@@ -6,9 +6,9 @@
 - Java, Javascript `Native`
 
 ### 🤪 Development I Pursue
-- Develop customizable, performant, and quality open source packages
-- Develop quality and performant app
-- Develop App with a stylish designs
+- Develop customizable, performant, and quality open source packages `Important`
+- Develop quality and performant app `Important`
+- Develop App with a stylish designs `Important`
 
 ### 🤬 Dislikes
 - Viewing open source code that appears to be obfuscated
