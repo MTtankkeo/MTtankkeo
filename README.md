@@ -6,9 +6,10 @@
 - Java, Javascript `Native`
 
 ### 🤪 Development I Pursue
-- Develop customizable, performant, and quality open source packages `Important`
-- Develop quality and performant app `Important`
-- Develop App with a stylish designs `Important`
+- Code modularization, readability, and the use of efficient design patterns and documenting `Important`
+- Develop customizable, performant, and quality open source packages
+- Develop quality and performant app
+- Develop App with a stylish designs
 
 ### 🤬 Dislikes
 - Viewing open source code that appears to be obfuscated
