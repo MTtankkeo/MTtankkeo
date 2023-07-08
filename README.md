@@ -12,6 +12,7 @@
 - Develop App with a stylish design
 
 ### 🤬 Dislikes
+- Viewing open source code that appears to be obfuscated
 
 <!--
 **MTtankkeo/MTtankkeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
