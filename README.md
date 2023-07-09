@@ -1,6 +1,4 @@
-<div align:"center">
-# 👋 Hello World! 👋
-</div>
+<div align=center><h1>👋 Hello World! 👋</h1></div>
 
 ### 🌐 Useable Language
 - Google Dart `Main`
