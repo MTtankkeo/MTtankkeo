@@ -2,7 +2,7 @@
 
 ### 🌐 Useable Language
 - Google Dart `Main`
-- C, C# `Sub`
+- C, CPP, C# `Sub`
 - Java, Javascript `Native`
 
 ### 🤪 Development I Pursue
