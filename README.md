@@ -3,7 +3,7 @@
 ## What I consider important in development
 While I believe it's a good practice to leverage packages and libraries appropriately for developing high-quality environments, an excessive focus on developer convenience can lead to an inflated project size and overuse of server resources. If this results in an ill-suited development environment for the platform, it could significantly degrade the user experience.
 
-Therefore, I believe maintaining a balance between the developer experience and user experience is crucial.
+Therefore, I believe maintaining a balance between the developer experience and user experience is very crucial.
 
 ### 🌐 Useable Language
 - Google Dart `Main`
