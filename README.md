@@ -3,13 +3,9 @@
 ## What I consider important in development
 I believe it's good development practice to use packages and libraries for ease of development and maintenance. However, focusing too much on the convenience of the developer can lead to situations where project file sizes become large and server traffic is unnecessarily wasted.
 
-`This could create a development environment that is not suitable for the platform, leading to a degradation in user experience.`
+This could create a development environment that is not suitable for the platform, leading to a degradation in user experience.
 
-<table>
-    <tr>
-        Therefore, I believe that balancing these two aspects is of utmost importance.
-    </tr>
-</table>
+Therefore, `I believe that balancing these two aspects is of utmost importance.`
 
 ### 🌐 Useable Language
 - Google Dart `Main`
