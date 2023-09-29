@@ -1,9 +1,11 @@
 ![developers_github_banner](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/a488d298-8f89-46f9-a8b5-94b521035e5f)
 
 ## What I consider important in development
-While I believe it's a good practice to leverage packages and libraries appropriately for developing high-quality environments, an excessive focus on developer convenience can lead to an inflated project size and overuse of server resources. If this results in an ill-suited development environment for the platform, it could significantly degrade the user experience.
+I believe it's good development practice to use packages and libraries for ease of development and maintenance. However, focusing too much on the convenience of the developer can lead to situations where project file sizes become large and server traffic is unnecessarily wasted.
 
-Therefore, `I believe maintaining a balance between the developer experience and user experience is very crucial.`
+This could create a development environment that is not suitable for the platform, leading to a degradation in user experience.
+
+Therefore, `I believe that balancing these two aspects is of utmost importance.`
 
 ### 🌐 Useable Language
 - Google Dart `Main`
