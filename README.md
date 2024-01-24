@@ -1,5 +1,5 @@
 ## My description
-"I am a frontend developer who is continuously gaining experience in basic backend development in order to foster seamless collaboration with exceptional backend developers.
+I am a frontend developer who is continuously gaining experience in basic backend development in order to foster seamless collaboration with exceptional backend developers.
 
 ### 🌐 Useable Language
 - Google Dart `Main`
