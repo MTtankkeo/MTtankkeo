@@ -1,15 +1,10 @@
 ## My description
 I am a frontend developer who is continuously gaining experience in basic backend development in order to foster seamless collaboration with exceptional backend developers.
 
-### 🌐 Useable Language
-- Google Dart `Main`
+### 🌐 Useable
+- Google Dart `Flutter`
 - C, CPP, C# `Sub`
-- Java(And Kotlin), Javascript(And Typescript)
-
-### 🌐 Useable Platfrom
-- Android Native Jetpack Compose
-- Flutter
-- Web Components, React `with State`
+- Java(And Kotlin) `Android App(Jetpack Compose)`, Javascript(And Typescript) `WebFront(Web Components, React)`
 - Golang
 
 ### 🤪 Development I Pursue
@@ -17,9 +12,6 @@ I am a frontend developer who is continuously gaining experience in basic backen
 - Develop customizable, performant, and quality open source packages
 - Develop quality and performant app
 - Develop App with a stylish designs
-
-### 🤬 Dislikes
-- Viewing open source code that appears to be obfuscated
 
 ### 😍 Things I like
 - Develop Flutter Packages
