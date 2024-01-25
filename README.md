@@ -14,5 +14,6 @@ I am a frontend developer who is continuously gaining experience in basic backen
 - Develop App with a stylish designs
 
 ### 😍 Things I like
-- Develop Flutter or Jetpack compose Packages
+- Develop flutter packages
+- Develop jetpack compose packages
 - Referencing or improving on good app design
