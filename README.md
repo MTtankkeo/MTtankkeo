@@ -8,5 +8,4 @@ I am a frontend developer who is continuously gaining experience in basic backen
 - Golang
 
 ### 😍 Interest
-- Develop packages (flutter, jetpack compose)
-- Referencing or improving on good app design
+- Develop packages (flutter, jetpack compose, web)
