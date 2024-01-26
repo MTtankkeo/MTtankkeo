@@ -1,5 +1,5 @@
 ## Who am I?
-I am a front-end developer constantly striving for high user experience, and deeply studying back-end knowledge for smooth collaboration.
+I am a client-side developer constantly striving for high user experience, and deeply studying server-side knowledge for smooth collaboration.
 
 ### 🌐 Useable
 - Google Dart `Flutter`
