@@ -7,12 +7,6 @@ I am a frontend developer who is continuously gaining experience in basic backen
 - Java(And Kotlin) `Android App(Jetpack Compose)`, Javascript(And Typescript) `WebFront(Web Components, React)`
 - Golang
 
-### 🤪 Development I Pursue
-- Code modularization, readability, and the use of efficient design patterns and documenting `Important`
-- Develop customizable, performant, and quality open source packages
-- Develop quality and performant app
-- Develop App with a stylish designs
-
-### 😍 Things I like
+### 😍 Interest
 - Develop packages (flutter, jetpack compose)
 - Referencing or improving on good app design
