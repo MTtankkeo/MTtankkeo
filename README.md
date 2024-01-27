@@ -1,7 +1,12 @@
 ## Who am I?
-I am a client-side developer constantly striving for high user experience, and deeply studying server-side knowledge for smooth collaboration.
+I am a `client-side developer` constantly striving for high user experience, and deeply studying server-side knowledge for smooth collaboration.
 
-<img src="https://img.shields.io/badge/Flutter-303133?style=flat-square&logo=flutter&logoColor=white"/><img src="https://img.shields.io/badge/Jetpack Compose-0?style=flat-square&logo=jetpackcompose&logoColor=white"/><img src="https://img.shields.io/badge/Golang-303133?style=flat-square&logo=goland&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-303133?style=flat-square&logo=tsnode&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-303133?style=flat-square&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-303133?style=flat-square&logo=kotlin&logoColor=white"/>
+## 🌐 Useable
+- Flutter, Jetpack Compose, React
+- Java(and Kotlin)
+- Javascript(and Typescript), HTML, CSS, Web Components
+- C, C# `sub`
+- Golang, Node.js `for server-side`
 
 ### 😍 Interest
 - Develop packages (flutter, jetpack compose, web)
