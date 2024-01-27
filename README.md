@@ -6,7 +6,7 @@ I am a `client-side developer` constantly striving for high user experience, and
 - Java(and Kotlin)
 - Javascript(and Typescript), HTML, CSS, Web Components
 - C, C# `sub`
-- Golang, Node.js `for server-side`
+- Golang, Node.js
 
 ### 😍 Interest
 - Develop packages (flutter, jetpack compose, web)
