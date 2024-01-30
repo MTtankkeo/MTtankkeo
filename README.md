@@ -14,8 +14,8 @@ I am a `client-side developer` constantly striving for high user experience, and
       <th>CSR With Service Worker</th>
       <th>SPA</th>
       <th>SSR</th>
-      <th>HTML5 Canvas</th>
-      <th>Flutter CustomPainter</th>
+      <th>HTML5 - Canvas</th>
+      <th>Flutter - CustomPainter</th>
     </tr>
   </tbody>
 </table>
