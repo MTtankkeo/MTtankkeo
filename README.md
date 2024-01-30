@@ -6,23 +6,6 @@ I am a `client-side developer` constantly striving for high user experience, and
     <tr>
       <th>🌐 Useable</th>
     </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Flutter, Jetpack Compose, React</td>
-    </tr>
-    <tr>
-      <td>Java(and Kotlin)</td>
-    </tr>
-    <tr>
-      <td>Dart, Javascript(and Typescript), HTML, CSS, Web Components, Python</td>
-    </tr>
-    <tr>
-      <td>C, C# `sub`</td>
-    </tr>
-    <tr>
-      <td>Golang, Node.js</td>
-    </tr>
   </tbody>
 </table>
 
