@@ -11,8 +11,9 @@ I am a `client-side developer` constantly striving for high user experience, and
 <table>
   <thead>
     <tr>
-      <th>Service Worker</th>
-       <th>Service Worker</th>
+      <th>CSR With Service Worker</th>
+      <th>SPA</th>
+      <th>SSR</th>
     </tr>
   </tbody>
 </table>
