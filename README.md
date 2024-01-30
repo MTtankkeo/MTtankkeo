@@ -12,7 +12,8 @@ I am a `client-side developer` constantly striving for high user experience, and
       <td>Flutter, Jetpack Compose, React</td>
     </tr>
     <tr>
-      <td>Java(and Kotlin)</td>
+      <td>Java</td>
+      <td>Kotlin</td>
     </tr>
   </tbody>
 </table>
