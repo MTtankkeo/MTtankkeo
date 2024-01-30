@@ -15,7 +15,7 @@ I am a `client-side developer` constantly striving for high user experience, and
       <th>SPA</th>
       <th>SSR</th>
       <th>HTML5 Canvas</th>
-      <th>Flutter Custom Painter</th>
+      <th>Flutter CustomPainter</th>
     </tr>
   </tbody>
 </table>
