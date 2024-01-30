@@ -12,6 +12,7 @@ I am a `client-side developer` constantly striving for high user experience, and
   <thead>
     <tr>
       <th>Service Worker</th>
+       <th>Service Worker</th>
     </tr>
   </tbody>
 </table>
