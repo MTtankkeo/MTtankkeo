@@ -12,8 +12,16 @@ I am a `client-side developer` constantly striving for high user experience, and
       <td>Flutter, Jetpack Compose, React</td>
     </tr>
     <tr>
-      <td>Java</td>
-      <td>Kotlin</td>
+      <td>Java(and Kotlin)</td>
+    </tr>
+    <tr>
+      <td>Dart, Javascript(and Typescript), HTML, CSS, Web Components, Python</td>
+    </tr>
+    <tr>
+      <td>C, C# `sub`</td>
+    </tr>
+    <tr>
+      <td>Golang, Node.js</td>
     </tr>
   </tbody>
 </table>
