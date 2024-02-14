@@ -20,5 +20,5 @@ I am a `client-side developer` constantly striving for high user experience, and
   </tbody>
 </table>
 
-### 😍 Interest
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="25" height="25" /> Interest
 - Develop packages (flutter, jetpack compose, web)
