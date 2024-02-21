@@ -3,8 +3,7 @@ I am a `client-side developer` constantly striving for high-level user experienc
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Useable
 - Flutter, Jetpack Compose, React
-- Java(and Kotlin)
-- Dart, Javascript(and Typescript), HTML, CSS, Web Components, Python
+- Java(and Kotlin), Dart, Javascript(and Typescript), HTML, CSS, Web Components, Python
 - C, C# `sub`
 - Golang, Node.js
 
