@@ -5,7 +5,7 @@ I'm always striving to enhance user experiences as a front-end developer.
 - Flutter, Jetpack Compose, React
 - Java(and Kotlin), Dart, Javascript(and Typescript), HTML, CSS, Web Components, Python
 - C, C# `sub`
-- Golang, Node.js
+- Golang, Rust, Node.js
 
 <table>
   <thead>
