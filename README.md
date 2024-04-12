@@ -2,7 +2,7 @@
 I'm always striving to enhance user experiences as a front-end developer.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Useable
-- Flutter, Jetpack Compose, React
+- Flutter, Jetpack Compose, React, Angular, Vue.js, Svelte
 - Java(and Kotlin), Dart, Javascript(and Typescript), HTML, CSS, Web Components, Python
 - C, C# `sub`
 - Golang, Rust, Node.js
