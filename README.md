@@ -1,7 +1,8 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"> Hi there, I'm 장천룡
 I'm always striving to enhance user experiences as a front-end developer.
 
->  See also, I feel sexual excitement when I see a good and sexy codes, And so you need to notify your sexy codes to me.
+> See also, I feel sexual excitement when I see a good and sexy codes,
+> And so you need to notify your good and sexy codes to me!
 
 ![graph](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/3bd3f4b9-535e-4ae0-a7d9-0facd1b9f428)
 
