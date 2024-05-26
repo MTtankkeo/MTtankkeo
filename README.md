@@ -1,5 +1,5 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"> Hi there, I'm 장천룡
-![see_also](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/8489e85f-f040-41a5-b1ba-b421f5397945)
+![see_also](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/0fa7c5bd-308a-4c82-a387-ea7135b43dc4)
 ![graph](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/3bd3f4b9-535e-4ae0-a7d9-0facd1b9f428)
 
 ![useable_framework](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/92c8587c-d3a8-4577-9c7e-33ac02b7f4b1)<br>
