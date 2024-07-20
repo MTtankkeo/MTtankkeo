@@ -1,7 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"> Hi there, I'm 장천룡
 I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.
 
-> I'm studying swift and development about ios mobile application currently.
 <br>
 
 ![useable_framework](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/92c8587c-d3a8-4577-9c7e-33ac02b7f4b1)<br>
