@@ -1,9 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"> Hi there, I'm 장천룡
 I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.
 
-<br>
-
-![useable_framework](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/92c8587c-d3a8-4577-9c7e-33ac02b7f4b1)<br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Useable Frameworks
 ![flutter](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/0a387d95-9e84-47c0-8037-ef41b6194f8c)
 ![jetpack_compose](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/622adf43-6617-48f6-9b96-d229e506698e)
 ![react](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/81b9585d-4cf9-484c-a221-d72d2bc1c5fd)
