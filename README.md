@@ -10,7 +10,7 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
       <th><img src="https://github.com/user-attachments/assets/b3e30c31-527d-45c2-bf2b-a20283a3baf8"> React</th>
       <th><img src="https://github.com/user-attachments/assets/abd994bb-c228-44b7-99af-d237f7f4310f"> Angular</th>
       <th><img src="https://github.com/user-attachments/assets/f5dd46b3-dcaa-45f9-a582-79c76021ec8b"> Vue.js</th>
-      <th><img src="https://github.com/user-attachments/assets/1ded439d-d0ca-49b2-8462-17b9d7b76f7f"> svelte</th>
+      <th><img src="https://github.com/user-attachments/assets/1ded439d-d0ca-49b2-8462-17b9d7b76f7f"> Svelte</th>
     </tr>
   </tbody>
 </table>
