@@ -16,7 +16,16 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 </table>
 
 ### Useable Languages And Skill
-- ![java](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/7c7856a3-2511-4e2a-acf3-4e4fec8b6f36) Java(and ![kotlin](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/e8481ab8-23bd-4d98-ab6b-1f6d2cab201a) Kotlin), ![dart](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/9bafcc19-94d3-4d8f-9c6a-565ef53d5053) Dart, ![js](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/6d617b09-907d-4e8a-9c78-cf690f1aaa40) Javascript(and ![ts](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/74ec3007-de2f-4368-a71a-bbf59c555f9c) Typescript), ![html](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/e646422e-c326-4082-b179-46faa8f5044e) HTML, ![css](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/0300c14d-9429-43ad-8f74-0a2471daeff0) CSS, ![web_components](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/a351e3bc-aed9-450f-a735-17efd60fecd5) Web Components, ![python](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/cce1f9b5-9737-4b22-9668-5a7a45f1f624) Python
+![java](https://github.com/user-attachments/assets/feaf1385-c174-4bf3-aa13-55f4eb3a8871)
+![kotlin](https://github.com/user-attachments/assets/9dc013c3-91f4-4302-b02c-d0d631a59552)
+![dart](https://github.com/user-attachments/assets/cb6de62c-721c-4b2c-a6ca-3415b49fd3a8)
+![javascript](https://github.com/user-attachments/assets/19072012-ce4f-4f71-bba7-7be6659b9b8f)
+![typescript](https://github.com/user-attachments/assets/da616fdb-09e5-4eef-a353-af36db51bb67)
+![html](https://github.com/user-attachments/assets/d9e07d97-a52c-40c9-9292-bfd7e4fabfde)
+![css](https://github.com/user-attachments/assets/3a17690e-4549-4837-bd6e-e3527465e42c)
+![web_components](https://github.com/user-attachments/assets/983b71c2-8133-4f02-b99e-d480cb77c43f)
+![python](https://github.com/user-attachments/assets/2436a830-3e1a-4a3e-b8fb-4cbc022834e5)
+
 - ![c](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/ea3ca71d-c2f3-4926-937f-6db4e21af0a3) C, ![c#](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/2cb508d4-d8f4-4603-aae2-5285f89f5ece) C# `sub`
 - ![golang](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/2ffa8bba-5fe8-42bf-8aa9-237206e58103) Golang, ![rust](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/9393278f-c0e0-4270-a20f-24b0a7352a74) Rust, ![node](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/28fdfe01-b256-4784-9ba7-2791660ad23f) Node.js, ![mysql](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/92635560-1c24-4b33-b5fb-3a7e8b415f66) MySQL ![postgres](https://github.com/user-attachments/assets/fca21a9a-9305-4ae7-9529-644b2d8eb29b) PostgreSQL ![redis](https://github.com/user-attachments/assets/361eb6b0-b1d5-4b3e-9d91-28252d441949) Redis ![docker](https://github.com/user-attachments/assets/0adf795e-ec88-44eb-8fba-c9d27a24a912) Docker
 
