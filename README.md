@@ -25,7 +25,9 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 ![css](https://github.com/user-attachments/assets/3a17690e-4549-4837-bd6e-e3527465e42c)
 ![web_components](https://github.com/user-attachments/assets/983b71c2-8133-4f02-b99e-d480cb77c43f)
 ![python](https://github.com/user-attachments/assets/2436a830-3e1a-4a3e-b8fb-4cbc022834e5)
+<br>
 ![c, c#](https://github.com/user-attachments/assets/48810912-4353-4559-ba80-96f1271d41dc)
+<br>
 ![golang](https://github.com/user-attachments/assets/7a902145-b700-4927-876d-27910153260f)
 ![rust](https://github.com/user-attachments/assets/2b943109-9951-4c2e-a84a-eae7f64f8d34)
 ![node](https://github.com/user-attachments/assets/0d544fe8-3ed2-4c77-81dc-9243bf99d173)
