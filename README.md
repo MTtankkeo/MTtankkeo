@@ -27,8 +27,14 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 ![python](https://github.com/user-attachments/assets/2436a830-3e1a-4a3e-b8fb-4cbc022834e5)
 <br>
 ![c, c#](https://github.com/user-attachments/assets/48810912-4353-4559-ba80-96f1271d41dc)
-
-- ![golang](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/2ffa8bba-5fe8-42bf-8aa9-237206e58103) Golang, ![rust](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/9393278f-c0e0-4270-a20f-24b0a7352a74) Rust, ![node](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/28fdfe01-b256-4784-9ba7-2791660ad23f) Node.js, ![mysql](https://github.com/MTtankkeo/MTtankkeo/assets/122026021/92635560-1c24-4b33-b5fb-3a7e8b415f66) MySQL ![postgres](https://github.com/user-attachments/assets/fca21a9a-9305-4ae7-9529-644b2d8eb29b) PostgreSQL ![redis](https://github.com/user-attachments/assets/361eb6b0-b1d5-4b3e-9d91-28252d441949) Redis ![docker](https://github.com/user-attachments/assets/0adf795e-ec88-44eb-8fba-c9d27a24a912) Docker
+<br>
+![golang](https://github.com/user-attachments/assets/7a902145-b700-4927-876d-27910153260f)
+![rust](https://github.com/user-attachments/assets/2b943109-9951-4c2e-a84a-eae7f64f8d34)
+![node](https://github.com/user-attachments/assets/0d544fe8-3ed2-4c77-81dc-9243bf99d173)
+![mysql](https://github.com/user-attachments/assets/cfb6d934-f745-4039-bccb-7bac2ad36e28)
+![postgresql](https://github.com/user-attachments/assets/a77af819-9042-41df-9a10-1dc715052e04)
+![redis](https://github.com/user-attachments/assets/c34e3ce2-146a-4f84-90dd-8078e3a51d70)
+![docker](https://github.com/user-attachments/assets/b2fa7db8-f70d-4c7e-a839-a761d0544797)
 
 <table>
   <thead>
