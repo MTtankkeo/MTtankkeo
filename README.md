@@ -16,7 +16,7 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 </table>
 
 ### Useable Languages And Skill
-- ![java](https://github.com/user-attachments/assets/feaf1385-c174-4bf3-aa13-55f4eb3a8871)
+![java](https://github.com/user-attachments/assets/feaf1385-c174-4bf3-aa13-55f4eb3a8871)
 ![kotlin](https://github.com/user-attachments/assets/9dc013c3-91f4-4302-b02c-d0d631a59552)
 ![dart](https://github.com/user-attachments/assets/cb6de62c-721c-4b2c-a6ca-3415b49fd3a8)
 ![javascript](https://github.com/user-attachments/assets/19072012-ce4f-4f71-bba7-7be6659b9b8f)
@@ -25,8 +25,8 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 ![css](https://github.com/user-attachments/assets/3a17690e-4549-4837-bd6e-e3527465e42c)
 ![web_components](https://github.com/user-attachments/assets/983b71c2-8133-4f02-b99e-d480cb77c43f)
 ![python](https://github.com/user-attachments/assets/2436a830-3e1a-4a3e-b8fb-4cbc022834e5)
-- ![c, c#](https://github.com/user-attachments/assets/48810912-4353-4559-ba80-96f1271d41dc)
-- ![golang](https://github.com/user-attachments/assets/7a902145-b700-4927-876d-27910153260f)
+![c, c#](https://github.com/user-attachments/assets/48810912-4353-4559-ba80-96f1271d41dc)
+![golang](https://github.com/user-attachments/assets/7a902145-b700-4927-876d-27910153260f)
 ![rust](https://github.com/user-attachments/assets/2b943109-9951-4c2e-a84a-eae7f64f8d34)
 ![node](https://github.com/user-attachments/assets/0d544fe8-3ed2-4c77-81dc-9243bf99d173)
 ![mysql](https://github.com/user-attachments/assets/cfb6d934-f745-4039-bccb-7bac2ad36e28)
