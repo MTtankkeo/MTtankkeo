@@ -16,25 +16,25 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 </table>
 
 ### Useable Languages And Skill
-![java](https://github.com/user-attachments/assets/feaf1385-c174-4bf3-aa13-55f4eb3a8871)
-![kotlin](https://github.com/user-attachments/assets/9dc013c3-91f4-4302-b02c-d0d631a59552)
-![dart](https://github.com/user-attachments/assets/cb6de62c-721c-4b2c-a6ca-3415b49fd3a8)
-![javascript](https://github.com/user-attachments/assets/19072012-ce4f-4f71-bba7-7be6659b9b8f)
-![typescript](https://github.com/user-attachments/assets/da616fdb-09e5-4eef-a353-af36db51bb67)
-![html](https://github.com/user-attachments/assets/d9e07d97-a52c-40c9-9292-bfd7e4fabfde)
-![css](https://github.com/user-attachments/assets/3a17690e-4549-4837-bd6e-e3527465e42c)
-![web_components](https://github.com/user-attachments/assets/983b71c2-8133-4f02-b99e-d480cb77c43f)
-![python](https://github.com/user-attachments/assets/2436a830-3e1a-4a3e-b8fb-4cbc022834e5)
+![java](https://github.com/user-attachments/assets/3b901969-944d-401d-81dc-623255dcd00c)
+![kotlin](https://github.com/user-attachments/assets/089bae45-c6f2-4715-a237-b070fe20633b)
+![dart](https://github.com/user-attachments/assets/8b4debf5-eecc-4ecd-80e5-2fa4f8163a3a)
+![javascript](https://github.com/user-attachments/assets/89dd9d25-0620-4348-a6df-29b19afb179c)
+![typescript](https://github.com/user-attachments/assets/e919ec35-eff1-4acf-a96a-279934aed0c2)
+![html](https://github.com/user-attachments/assets/c903614d-b614-46e5-8032-2cfd11db954d)
+![css](https://github.com/user-attachments/assets/4f6bd0ae-505c-48b8-8c45-850ac726dbed)
+![web_components](https://github.com/user-attachments/assets/01820308-08c1-4e90-84b3-b905ffc5f54b)
+![python](https://github.com/user-attachments/assets/500f3ba0-3389-4faa-a52a-b2fd08ecc346)
 <br>
-![c, c#](https://github.com/user-attachments/assets/48810912-4353-4559-ba80-96f1271d41dc)
+![c, c#](https://github.com/user-attachments/assets/011e6840-d831-4296-aac4-2470dce06350)
 <br>
-![golang](https://github.com/user-attachments/assets/7a902145-b700-4927-876d-27910153260f)
-![rust](https://github.com/user-attachments/assets/2b943109-9951-4c2e-a84a-eae7f64f8d34)
-![node](https://github.com/user-attachments/assets/0d544fe8-3ed2-4c77-81dc-9243bf99d173)
-![mysql](https://github.com/user-attachments/assets/cfb6d934-f745-4039-bccb-7bac2ad36e28)
-![postgresql](https://github.com/user-attachments/assets/a77af819-9042-41df-9a10-1dc715052e04)
-![redis](https://github.com/user-attachments/assets/c34e3ce2-146a-4f84-90dd-8078e3a51d70)
-![docker](https://github.com/user-attachments/assets/b2fa7db8-f70d-4c7e-a839-a761d0544797)
+![golang](https://github.com/user-attachments/assets/992dacd8-7127-4ec3-9ee0-0271689581d9)
+![rust](https://github.com/user-attachments/assets/8e4a4f5f-b38c-4181-a562-b75d5c35987f)
+![node.js](https://github.com/user-attachments/assets/9a5d0370-ed64-46ff-b88a-1fa56a08e23d)
+![mysql](https://github.com/user-attachments/assets/a02be21c-6190-4d74-bc17-1caffc4a62ef)
+![postgresql](https://github.com/user-attachments/assets/5610d0d8-81eb-42d6-9fe6-6cee66fa8548)
+![redis](https://github.com/user-attachments/assets/c3bbb548-694d-44c9-b458-4583346f1bd8)
+![docker](https://github.com/user-attachments/assets/eaf1b78e-9ed6-4715-8b5c-b88feccc3514)
 
 <table>
   <thead>
