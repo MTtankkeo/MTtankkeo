@@ -17,8 +17,8 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
 
 ### Useable Languages And Skill
 ![java](https://github.com/user-attachments/assets/3b901969-944d-401d-81dc-623255dcd00c)
-![kotlin](https://github.com/user-attachments/assets/089bae45-c6f2-4715-a237-b070fe20633b)
-![dart](https://github.com/user-attachments/assets/8b4debf5-eecc-4ecd-80e5-2fa4f8163a3a)
+![kotlin](https://github.com/user-attachments/assets/bd11b9f9-6d43-45f2-a59b-f3c54c17c4d2)
+![dart](https://github.com/user-attachments/assets/1f3c09fd-c7b1-423d-9917-840553baa36c)
 ![javascript](https://github.com/user-attachments/assets/89dd9d25-0620-4348-a6df-29b19afb179c)
 ![typescript](https://github.com/user-attachments/assets/e919ec35-eff1-4acf-a96a-279934aed0c2)
 ![html](https://github.com/user-attachments/assets/c903614d-b614-46e5-8032-2cfd11db954d)
