@@ -48,6 +48,6 @@ I'm always striving to enhance user experiences as a __front-end developer__, An
   </tbody>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="25" height="25" /> Interest
+### Interest
 > Develop packages about flutter, jetpack compose, web _(e.g. flutter_touch_ripple, compose_appbar, animatable_js ...)_<br>
 > And looking for object-oriented design patterns about open-source codes.
