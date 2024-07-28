@@ -1,5 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"> Hi there, I'm 장천룡
-I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.
+
+> [!IMPORTANT]
+> I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.
 
 ### Useable Frameworks
 ![flutter](https://github.com/user-attachments/assets/2e5a29c1-2d73-4c82-8ea6-17f1843736ce)
