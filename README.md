@@ -30,6 +30,7 @@
 ![postgresql](https://github.com/user-attachments/assets/5610d0d8-81eb-42d6-9fe6-6cee66fa8548)
 ![redis](https://github.com/user-attachments/assets/c3bbb548-694d-44c9-b458-4583346f1bd8)
 ![docker](https://github.com/user-attachments/assets/eaf1b78e-9ed6-4715-8b5c-b88feccc3514)
+![liquibase](https://github.com/user-attachments/assets/33cd7dcb-03e8-4dda-9a4e-fba3a9c28348)
 
 <table>
   <thead>
