@@ -44,6 +44,6 @@
   </tbody>
 </table>
 
-### Interest
-> Develop packages about flutter, jetpack compose, web _(e.g. flutter_touch_ripple, compose_appbar, animatable_js ...)_<br>
-> And looking for object-oriented design patterns about open-source codes.
+## Interest
+> Develop packages about flutter, jetpack compose, javascript and web!<br>
+> And looking for object-oriented design patterns about open-source codes. _(Thanks, open sources!)_
