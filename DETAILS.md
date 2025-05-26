@@ -27,8 +27,6 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | [flutter_chartx](https://pub.dev/packages/flutter_chartx) | 2025 | Lightweight, extensible chart library
 | [flutter_rebuildable](https://pub.dev/packages/flutter_rebuildable) | 2025 | Fine-grained rebuild control widget
 
----
-
 ## 🟨 NPM (JavaScript / React)
 Covering animation, layout systems, utility functions, and build tool enhancements:
 
@@ -39,12 +37,10 @@ Covering animation, layout systems, utility functions, and build tool enhancemen
 | [web-overlay-layout](https://www.npmjs.com/package/web-overlay-layout) | 2024 _(Second half)_ | Layered layout system for complex UIs
 | [css-mangle-webpack-plugin](https://www.npmjs.com/package/css-mangle-webpack-plugin) | 2024 _(Second half)_ | CSS class minification plugin for Webpack
 | [html-inline-webpack-plugin](https://www.npmjs.com/package/html-inline-webpack-plugin) | 2024 _(Second half)_ | Inline critical HTML and JS into templates
-| [image-encode-loader](https://www.npmjs.com/package/image-encode-loader) | 2024 _(Second half)_ | Webpack loader for base64-encoded images
+| [image-encode-loader](https://www.npmjs.com/package/image-encode-loader) | 2024 _(Second half)_ | Webpack loader for encoding images as others formats
 | [@web-package/utility](https://www.npmjs.com/package/@web-package/utility) | 2024 _(Second half)_ | Lightweight JS utilities for web apps
 | [@web-package/react-widgets](https://www.npmjs.com/package/@web-package/react-widgets) | 2025 | UI components with focus on DX
 | [@web-package/react-widgets-router](https://www.npmjs.com/package/@web-package/react-widgets-router) | 2025 | Router-aware widget composition for React
-
----
 
 ## 🟩 Maven Central (Jetpack Compose)
 Focusing on UI consistency and design reusability in Android development:
