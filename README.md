@@ -2,7 +2,8 @@
 > <img align="left" width="50" src="https://github.com/user-attachments/assets/e3398011-04b7-4380-9370-92f3197c7871">
 
 > __SIMPLE INTRO__<br>
-> I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.
+> I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.<br>
+> [</> My Open Source Contributions](CONTRIBUTION.md)
 
 ### Useable Frameworks
 ![flutter](https://github.com/user-attachments/assets/2e5a29c1-2d73-4c82-8ea6-17f1843736ce)
@@ -54,6 +55,5 @@
 > Develop packages about [flutter](https://github.com/MTtankkeo/flutter_touch_ripple), [jetpack compose](https://github.com/MTtankkeo/compose_appbar), [javascript](https://github.com/animatable-js/animatable_js), [react](https://github.com/react-widgets/react_widgets), [web](https://github.com/MTtankkeo/web_touch_ripple)!<br>
 > And looking for object-oriented design patterns about open-source codes. _(Thanks, open sources!)_
 
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0"></a>
+<img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0">
 
-[</> My Open Source Contributions](CONTRIBUTION.md)
