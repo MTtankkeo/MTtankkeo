@@ -1,4 +1,5 @@
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"> Hi there, I'm 장천룡
+## Hi there, I'm 장천룡
+> <img align="left" width="50" src="https://github.com/user-attachments/assets/e3398011-04b7-4380-9370-92f3197c7871">
 
 > __SIMPLE INTRO__<br>
 > I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.
@@ -52,5 +53,7 @@
 ## Interest
 > Develop packages about [flutter](https://github.com/MTtankkeo/flutter_touch_ripple), [jetpack compose](https://github.com/MTtankkeo/compose_appbar), [javascript](https://github.com/animatable-js/animatable_js), [react](https://github.com/react-widgets/react_widgets), [web](https://github.com/MTtankkeo/web_touch_ripple)!<br>
 > And looking for object-oriented design patterns about open-source codes. _(Thanks, open sources!)_
+
+<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0"></a>
 
 [</> My Open Source Contributions](CONTRIBUTION.md)
