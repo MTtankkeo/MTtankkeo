@@ -54,6 +54,6 @@
 > Develop packages about [flutter](https://github.com/MTtankkeo/flutter_touch_ripple), [jetpack compose](https://github.com/MTtankkeo/compose_appbar), [javascript](https://github.com/animatable-js/animatable_js), [react](https://github.com/react-widgets/react_widgets), [web](https://github.com/MTtankkeo/web_touch_ripple)!<br>
 > And looking for object-oriented design patterns about open-source codes. _(Thanks, open sources!)_
 
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0"></a>
+<a href="https://discord.com/users/738748102311280681"><img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0"></a>
 
 [</> My Open Source Contributions](CONTRIBUTION.md)
