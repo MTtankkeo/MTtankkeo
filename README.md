@@ -3,7 +3,9 @@
 
 > __SIMPLE INTRO__<br>
 > I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.<br>
-> [</> My Open Source Contributions](CONTRIBUTION.md)
+> [🔍 Details](), [🚀 My Open Source Contributions](CONTRIBUTION.md)
+
+- - -
 
 ### Useable Frameworks
 ![flutter](https://github.com/user-attachments/assets/2e5a29c1-2d73-4c82-8ea6-17f1843736ce)
@@ -50,10 +52,6 @@
     </tr>
   </tbody>
 </table>
-
-## Interest
-> Develop packages about [flutter](https://github.com/MTtankkeo/flutter_touch_ripple), [jetpack compose](https://github.com/MTtankkeo/compose_appbar), [javascript](https://github.com/animatable-js/animatable_js), [react](https://github.com/react-widgets/react_widgets), [web](https://github.com/MTtankkeo/web_touch_ripple)!<br>
-> And looking for object-oriented design patterns about open-source codes. _(Thanks, open sources!)_
 
 <img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0">
 
