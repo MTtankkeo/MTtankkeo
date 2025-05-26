@@ -1,4 +1,4 @@
-# How I Fell Into the World of Code
+# 🤔 How I Fell Into the World of Code
 My coding journey began back in middle school when I first became fascinated with Java. Soon after, I started learning C, which gave me a deeper understanding of how computers work at a fundamental level.
 
 During that time, I realized the underlying causes of memory leaks—not just experiencing them, but truly understanding how they happen.
@@ -9,6 +9,8 @@ A year or two later, I started exploring web development, which naturally led to
 
 From there, I studied Jetpack Compose, and after buying a MacBook, I began learning Swift, which eventually led me to SwiftUI. Since then, I have been consistently developing and maintaining packages for both Flutter and Jetpack Compose.
 
+![ebcdaf970dcc7ca138eabbb767472943_139900](https://github.com/user-attachments/assets/56f8f530-a063-41c0-bec2-7fa82cd76cb0)
+
 # 🚀 My Open Sources
 I take great pride in building and maintaining tools that solve real problems for developers. Rather than just contributing to existing projects, I've focused on creating my own open source libraries across multiple ecosystems—Flutter, Jetpack Compose, React, and Webpack.
 
@@ -16,7 +18,7 @@ From frontend UIs to build toolchains, I enjoy crafting flexible, reusable, and 
 
 Here’s a curated list of my open source projects:
 
-## 🔷 Dart (Flutter)
+## ![pub.dev](https://github.com/user-attachments/assets/0bb08b23-8478-415c-aacb-44877787dcf7) Dart (Flutter)
 These packages are designed to extend Flutter’s core capabilities with powerful, easy-to-use components:
 
 | Name | Published At | Description |
@@ -27,7 +29,7 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | [flutter_chartx](https://pub.dev/packages/flutter_chartx) | 2025 | Lightweight, extensible chart library
 | [flutter_rebuildable](https://pub.dev/packages/flutter_rebuildable) | 2025 | Fine-grained rebuild control widget
 
-## 🟨 NPM (JavaScript / React)
+## ![npm](https://github.com/user-attachments/assets/c6e85c28-46ee-4afe-b528-44adfae681e4) NPM (JavaScript / React)
 Covering animation, layout systems, utility functions, and build tool enhancements:
 
 | Name | Published At | Description |
@@ -42,7 +44,7 @@ Covering animation, layout systems, utility functions, and build tool enhancemen
 | [@web-package/react-widgets](https://www.npmjs.com/package/@web-package/react-widgets) | 2025 | UI components with focus on DX
 | [@web-package/react-widgets-router](https://www.npmjs.com/package/@web-package/react-widgets-router) | 2025 | Router-aware widget composition for React
 
-## 🟩 Maven Central (Jetpack Compose)
+## ![maven](https://github.com/user-attachments/assets/df1d64e0-2864-4ea3-97d8-dbc34f7df8ee) Maven Central (Jetpack Compose)
 Focusing on UI consistency and design reusability in Android development:
 
 | Name | Published At | Description |
