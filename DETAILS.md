@@ -9,38 +9,49 @@ A year or two later, I started exploring web development, which naturally led to
 
 From there, I studied Jetpack Compose, and after buying a MacBook, I began learning Swift, which eventually led me to SwiftUI. Since then, I have been consistently developing and maintaining packages for both Flutter and Jetpack Compose.
 
-# My Open Sources
-I actively create, develop, and maintain several open source projects. Below is a list of the projects I have personally built.
+# 🚀 My Open Sources
+I take great pride in building and maintaining tools that solve real problems for developers. Rather than just contributing to existing projects, I've focused on creating my own open source libraries across multiple ecosystems—Flutter, Jetpack Compose, React, and Webpack.
 
-### Dart (Flutter)
-Below is related to Dart and Flutter.
+From frontend UIs to build toolchains, I enjoy crafting flexible, reusable, and thoughtfully designed packages. My work reflects a balance between practical usability and architectural cleanliness.
 
-| Name | Published At | Related To |
-| ---- | ------------ | ---------- |
-| [flutter_touch_ripple](https://pub.dev/packages/flutter_touch_ripple) | 2023 _Second half_ | Flutter
-| [flutter_appbar](https://pub.dev/packages/flutter_appbar) | 2025 | Flutter
-| [flutter_refresh_indicator](https://pub.dev/packages/flutter_refresh_indicator) | 2025 | Flutter
-| [flutter_chartx](https://pub.dev/packages/flutter_chartx) | 2025 | Flutter
-| [flutter_rebuildable](https://pub.dev/packages/flutter_rebuildable) | 2025 | Flutter
+Here’s a curated list of my open source projects:
 
-### NPM
-Below is related to Javascript and React.
+## 🔷 Dart (Flutter)
+These packages are designed to extend Flutter’s core capabilities with powerful, easy-to-use components:
 
-| Name | Published At | Related To |
-| ---- | ------------ | ---------- |
-| [animatable-js](https://www.npmjs.com/package/animatable-js), [animatable-jsx](https://www.npmjs.com/package/animatable-jsx) | 2024 | Web _(JS, TS)_
-| [web-touch-ripple](https://www.npmjs.com/package/web-touch-ripple) | 2024 | [Web Components](https://developer.mozilla.org/ko/docs/Web/API/Web_components)
-| [web-overlay-layout](https://www.npmjs.com/package/web-overlay-layout) | 2024 _Second half_ | Web Layout
-| [css-mangle-webpack-plugin](https://www.npmjs.com/package/css-mangle-webpack-plugin) | 2024 _Second half_ | Webpack
-| [html-inline-webpack-plugin](https://www.npmjs.com/package/html-inline-webpack-plugin) | 2024 _Second half_ | Webpack
-| [image-encode-loader](https://www.npmjs.com/package/image-encode-loader) | 2024 _Second half_ | Webpack
-| [@web-package/utility](https://www.npmjs.com/package/@web-package/utility) | 2024 _Second half_ | Web
-| [@web-package/react-widgets](https://www.npmjs.com/package/@web-package/react-widgets) | 2025 | React
-| [@web-package/react-widgets-router](https://www.npmjs.com/package/@web-package/react-widgets-router) | 2025 | React
+| Name | Published At | Description |
+| ---- | ------------ | ----------- |
+| [flutter_touch_ripple](https://pub.dev/packages/flutter_touch_ripple) | 2023 _(Second half)_ | Customizable touch ripple effects
+| [flutter_appbar](https://pub.dev/packages/flutter_appbar) | 2025 | Modular AppBar components
+| [flutter_refresh_indicator](https://pub.dev/packages/flutter_refresh_indicator) | 2025 | Elegant pull-to-refresh behavior
+| [flutter_chartx](https://pub.dev/packages/flutter_chartx) | 2025 | Lightweight, extensible chart library
+| [flutter_rebuildable](https://pub.dev/packages/flutter_rebuildable) | 2025 | Fine-grained rebuild control widget
 
-### Maven Central
-Below is related to Java and Kotlin.
+---
 
-| Name | Published At | Related To |
-| ---- | ------------ | ---------- |
-| [compose_appbar](https://central.sonatype.com/artifact/dev.ttangkong/compose_appbar) | 2025 | Jetpack Compose
+## 🟨 NPM (JavaScript / React)
+Covering animation, layout systems, utility functions, and build tool enhancements:
+
+| Name | Published At | Description |
+| ---- | ------------ | ----------- |
+| [animatable-js](https://www.npmjs.com/package/animatable-js), [animatable-jsx](https://www.npmjs.com/package/animatable-jsx) | 2024 | Declarative animation utility for JS/React
+| [web-touch-ripple](https://www.npmjs.com/package/web-touch-ripple) | 2024 | Material-style ripple for Web Components
+| [web-overlay-layout](https://www.npmjs.com/package/web-overlay-layout) | 2024 _(Second half)_ | Layered layout system for complex UIs
+| [css-mangle-webpack-plugin](https://www.npmjs.com/package/css-mangle-webpack-plugin) | 2024 _(Second half)_ | CSS class minification plugin for Webpack
+| [html-inline-webpack-plugin](https://www.npmjs.com/package/html-inline-webpack-plugin) | 2024 _(Second half)_ | Inline critical HTML and JS into templates
+| [image-encode-loader](https://www.npmjs.com/package/image-encode-loader) | 2024 _(Second half)_ | Webpack loader for base64-encoded images
+| [@web-package/utility](https://www.npmjs.com/package/@web-package/utility) | 2024 _(Second half)_ | Lightweight JS utilities for web apps
+| [@web-package/react-widgets](https://www.npmjs.com/package/@web-package/react-widgets) | 2025 | UI components with focus on DX
+| [@web-package/react-widgets-router](https://www.npmjs.com/package/@web-package/react-widgets-router) | 2025 | Router-aware widget composition for React
+
+---
+
+## 🟩 Maven Central (Jetpack Compose)
+Focusing on UI consistency and design reusability in Android development:
+
+| Name | Published At | Description |
+| ---- | ------------ | ----------- |
+| [compose_appbar](https://central.sonatype.com/artifact/dev.ttangkong/compose_appbar) | 2025 | Modular and animated AppBar components for Compose
+
+## 🎯 Why I Do This
+Open source isn’t just a side project—it's my way of sharing the tools I wish existed, and making development more enjoyable for others. Whether it's improving developer experience, abstracting repetitive logic, or enhancing UI interactivity, I create packages with **real-world use cases and long-term maintainability in mind**!
