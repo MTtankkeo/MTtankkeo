@@ -3,7 +3,7 @@
 
 > __SIMPLE INTRO__<br>
 > I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.<br>
-> [🔍 Details](), [🚀 My Open Source Contributions](CONTRIBUTION.md)
+> [🔍 Details](DETAILS.md), [🚀 My Open Source Contributions](CONTRIBUTION.md)
 
 ### Useable Frameworks
 ![flutter](https://github.com/user-attachments/assets/2e5a29c1-2d73-4c82-8ea6-17f1843736ce)
