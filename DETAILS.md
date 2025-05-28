@@ -35,6 +35,7 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | [flutter_refresh_indicator](https://pub.dev/packages/flutter_refresh_indicator) | 2025 | Elegant pull-to-refresh behavior
 | [flutter_chartx](https://pub.dev/packages/flutter_chartx) | 2025 | Lightweight, extensible chart library
 | [flutter_rebuildable](https://pub.dev/packages/flutter_rebuildable) | 2025 | Fine-grained rebuild control widget
+| [flutter_sized_list](https://pub.dev/packages/flutter_sized_list_view) | 2025 | About pre-layout calculation
 
 ## ![npm](https://github.com/user-attachments/assets/c6e85c28-46ee-4afe-b528-44adfae681e4) NPM (JavaScript / React)
 Covering animation, layout systems, utility functions, and build tool enhancements:
