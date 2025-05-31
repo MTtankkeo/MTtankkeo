@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b3c79b5e-2117-4469-93ee-64e3d67952e1"></img>
-</div>
-
 ## Introduction
 I make a continuous effort to contribute to or create open-source projects to encourage a healthy developer community.
 
