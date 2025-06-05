@@ -15,27 +15,25 @@
 <a href="https://vuejs.org/"><img src="https://github.com/user-attachments/assets/1c27fcf0-ab10-4f7d-be29-7e53caaf3501"></a>
 
 ### Useable Languages And Skill
-![java](https://github.com/user-attachments/assets/3b901969-944d-401d-81dc-623255dcd00c)
-![kotlin](https://github.com/user-attachments/assets/c71a8087-d0b9-49a6-ac5f-d8d840fe9271)
-![dart](https://github.com/user-attachments/assets/b7f3fed4-b09a-4474-adbf-6da6db9de446)
-![javascript](https://github.com/user-attachments/assets/89dd9d25-0620-4348-a6df-29b19afb179c)
-![typescript](https://github.com/user-attachments/assets/e919ec35-eff1-4acf-a96a-279934aed0c2)
-![html](https://github.com/user-attachments/assets/c903614d-b614-46e5-8032-2cfd11db954d)
-![css](https://github.com/user-attachments/assets/4f6bd0ae-505c-48b8-8c45-850ac726dbed)
-![web_components](https://github.com/user-attachments/assets/01820308-08c1-4e90-84b3-b905ffc5f54b)
-![python](https://github.com/user-attachments/assets/500f3ba0-3389-4faa-a52a-b2fd08ecc346)
-![swift](https://github.com/user-attachments/assets/bf86e980-8b14-427e-99db-014deaa4fa10)
+![java](https://github.com/user-attachments/assets/e72f59f1-0635-4d97-b4c0-a8bbe5f63f7c)
+![kotlin](https://github.com/user-attachments/assets/174b8fb9-aa40-4b71-96df-87fd62c02f3e)
+![dart](https://github.com/user-attachments/assets/8b2f9515-170a-4bcb-a760-cce05eed2448)
+![javascript](https://github.com/user-attachments/assets/d787f799-146c-4d07-9282-5c81422f9d09)
+![typescript](https://github.com/user-attachments/assets/649eb57a-d611-4694-9548-d2487020b3b7)
+![html](https://github.com/user-attachments/assets/c85a7a76-f21f-4c0d-900b-253aa7b76472)
+![css](https://github.com/user-attachments/assets/21df961e-3cfe-46a9-bb58-385a565a9352)
+![web_components](https://github.com/user-attachments/assets/f60fccd3-b903-4abb-a841-98aaec56eb99)
+![python](https://github.com/user-attachments/assets/413df8d1-6182-4fe7-bcc2-6507c329c657)
+![swift](https://github.com/user-attachments/assets/66d0e27b-9e3d-4951-8739-fa297538e41c)
 <br>
-![c, c#](https://github.com/user-attachments/assets/011e6840-d831-4296-aac4-2470dce06350)
+![c, c#](https://github.com/user-attachments/assets/a6a8de8f-be64-44e9-8a29-d766e9808a84)
 <br>
-![golang](https://github.com/user-attachments/assets/992dacd8-7127-4ec3-9ee0-0271689581d9)
-![rust](https://github.com/user-attachments/assets/8e4a4f5f-b38c-4181-a562-b75d5c35987f)
-![node.js](https://github.com/user-attachments/assets/9a5d0370-ed64-46ff-b88a-1fa56a08e23d)
-![mysql](https://github.com/user-attachments/assets/a02be21c-6190-4d74-bc17-1caffc4a62ef)
-![postgresql](https://github.com/user-attachments/assets/5610d0d8-81eb-42d6-9fe6-6cee66fa8548)
-![redis](https://github.com/user-attachments/assets/c3bbb548-694d-44c9-b458-4583346f1bd8)
-![docker](https://github.com/user-attachments/assets/eaf1b78e-9ed6-4715-8b5c-b88feccc3514)
-![liquibase](https://github.com/user-attachments/assets/33cd7dcb-03e8-4dda-9a4e-fba3a9c28348)
+![golang](https://github.com/user-attachments/assets/c698066f-6e53-42b1-a5bc-065e7e178ada)
+![node.js](https://github.com/user-attachments/assets/1528fe74-626a-4d36-ab77-e461a730b81d)
+![postgresql](https://github.com/user-attachments/assets/9f47307d-3f60-4232-8536-76e263df151c)
+![redis](https://github.com/user-attachments/assets/4cc726f3-309d-44b3-bc72-a76b263fbd73)
+![docker](https://github.com/user-attachments/assets/bbb49ba1-f0d8-4529-b56b-32567a7e5383)
+![liquibase](https://github.com/user-attachments/assets/8de867f4-617e-4c3e-b56d-f07ebcfa3559)
 
 <table>
   <thead>
