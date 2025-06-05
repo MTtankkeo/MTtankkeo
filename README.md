@@ -6,15 +6,13 @@
 > [🔍 Details](DETAILS.md), [🚀 My Open Source Contributions](CONTRIBUTION.md)
 
 ### Useable Frameworks
-![flutter](https://github.com/user-attachments/assets/2e5a29c1-2d73-4c82-8ea6-17f1843736ce)
-![jetpack_compose](https://github.com/user-attachments/assets/7f149dd0-678f-430f-b943-e4bd70309f48)
-![uikit](https://github.com/user-attachments/assets/a343eadf-ca01-4fe5-b4d5-7bca0b7b7fe8)
-![swift_ui](https://github.com/user-attachments/assets/87b2ad07-7c47-4161-875b-e5fabd1fc8ba)
-![react](https://github.com/user-attachments/assets/1c968c54-9c2e-45b8-b154-9daf8d4b226f)
-![react_native](https://github.com/user-attachments/assets/3eb2232f-cc4e-4971-ab86-5dc2701610cd)
-![angular](https://github.com/user-attachments/assets/1e5d9e7f-99ef-4335-bf81-9b7887e8435c)
-![vue js](https://github.com/user-attachments/assets/1ff0a44c-188d-451a-9013-eab7bc10c6b0)
-![svelte](https://github.com/user-attachments/assets/52cdd979-3a56-4501-8b32-68662348a6fe)
+![flutter](https://github.com/user-attachments/assets/8bbdb3ab-ce90-4520-82b0-257ced0ca9c6)
+![jetpack_compose](https://github.com/user-attachments/assets/1a231992-2c46-4100-bc93-24b6cb752f96)
+![ui_kit](https://github.com/user-attachments/assets/353ad616-4cb9-4176-b149-221137dd1b1a)
+![swift_ui](https://github.com/user-attachments/assets/2fc03d48-c7a1-4bb1-8316-c37efa6c97cf)
+![react](https://github.com/user-attachments/assets/fb323671-dddc-422a-a9e9-d012c8736429)
+![svelte](https://github.com/user-attachments/assets/66997418-8fef-41ee-9caf-6ec2d18b9c95)
+![vue js](https://github.com/user-attachments/assets/1c27fcf0-ab10-4f7d-be29-7e53caaf3501)
 
 ### Useable Languages And Skill
 ![java](https://github.com/user-attachments/assets/3b901969-944d-401d-81dc-623255dcd00c)
