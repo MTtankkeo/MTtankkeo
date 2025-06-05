@@ -25,15 +25,15 @@
 ![web_components](https://github.com/user-attachments/assets/f60fccd3-b903-4abb-a841-98aaec56eb99)
 ![python](https://github.com/user-attachments/assets/413df8d1-6182-4fe7-bcc2-6507c329c657)
 ![swift](https://github.com/user-attachments/assets/66d0e27b-9e3d-4951-8739-fa297538e41c)
-<br>
-![c, c#](https://github.com/user-attachments/assets/a6a8de8f-be64-44e9-8a29-d766e9808a84)
-<br>
 ![golang](https://github.com/user-attachments/assets/c698066f-6e53-42b1-a5bc-065e7e178ada)
 ![node.js](https://github.com/user-attachments/assets/1528fe74-626a-4d36-ab77-e461a730b81d)
 ![postgresql](https://github.com/user-attachments/assets/9f47307d-3f60-4232-8536-76e263df151c)
 ![redis](https://github.com/user-attachments/assets/4cc726f3-309d-44b3-bc72-a76b263fbd73)
 ![docker](https://github.com/user-attachments/assets/bbb49ba1-f0d8-4529-b56b-32567a7e5383)
 ![liquibase](https://github.com/user-attachments/assets/8de867f4-617e-4c3e-b56d-f07ebcfa3559)
+<br>
+![c, c#](https://github.com/user-attachments/assets/a6a8de8f-be64-44e9-8a29-d766e9808a84)
+<br>
 
 <table>
   <thead>
