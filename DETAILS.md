@@ -31,6 +31,7 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | Name | Published At | Description |
 | ---- | ------------ | ----------- |
 | [flutter_touch_ripple](https://pub.dev/packages/flutter_touch_ripple) | 2023 _(Second half)_ | Customizable touch ripple effects
+| [flutter_touch_scale](https://pub.dev/packages/flutter_touch_scale) | 2025-06-09 | Customizable touch scale effect for Flutter
 | [flutter_appbar](https://pub.dev/packages/flutter_appbar) | 2025 | Modular AppBar components
 | [flutter_refresh_indicator](https://pub.dev/packages/flutter_refresh_indicator) | 2025 | Elegant pull-to-refresh behavior
 | [flutter_chartx](https://pub.dev/packages/flutter_chartx) | 2025 | Lightweight, extensible chart library
