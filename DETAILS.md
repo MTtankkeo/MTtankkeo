@@ -39,6 +39,7 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | [flutter_sized_list_view](https://pub.dev/packages/flutter_sized_list_view) | 2025 | About pre-layout calculation
 | [flutter_infinite_scroll_pagination](https://pub.dev/packages/flutter_infinite_scroll_pagination) | 2025-06-03 | A very simple and convenient next-generation alternative to [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination).
 | [flutter_cached_transition](https://pub.dev/packages/flutter_cached_transition) | 2025-06-29 | Provides customizable widgets that preserve widget state while applying transition animations. |
+| [flutter_scroll_bottom_sheet](https://pub.dev/packages/flutter_scroll_bottom_sheet) | 2025-07-29 | A bottom sheet widget that syncs smoothly with scroll events for a seamless UX. |
 
 ## ![npm](https://github.com/user-attachments/assets/c6e85c28-46ee-4afe-b528-44adfae681e4) NPM (JavaScript / React)
 Covering animation, layout systems, utility functions, and build tool enhancements:
