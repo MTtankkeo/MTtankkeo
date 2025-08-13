@@ -18,6 +18,12 @@ From there, I studied Jetpack Compose, and after buying a MacBook, I began learn
 | ![logo](https://github.com/user-attachments/assets/57667d4a-17d1-4af8-9d89-e05e6034213f) [Quark Icons](https://quarkicons.com/app) | Web | Modern Item Template Website |
 | ![logo](https://github.com/user-attachments/assets/d12d1830-a3c5-4b20-95a7-59be3f37bf22) Pub Viewer [Android ](https://play.google.com/store/apps/details?id=com.devttangkong.pubviewer_flutter)[/ IOS](https://apps.apple.com/us/app/pub-viewer/id6743361681) | Flutter | Text Viewer with TTS |
 
+## [Quark Icons Web](https://quarkicons.com)
+Quark Icons provides 300 free SVG icons for developers and designers, offering optimized icons suitable for web and mobile projects.
+
+<img width="1512" height="958" alt="image" src="https://github.com/user-attachments/assets/0561557a-261e-478c-8cf8-ad49047c55aa" />
+
+
 # 🚀 My Open Sources
 I take great pride in building and maintaining tools that solve real problems for developers. Rather than just contributing to existing projects, I've focused on creating my own open source libraries across multiple ecosystems—Flutter, Jetpack Compose, React, and Webpack.
 
@@ -65,3 +71,4 @@ Focusing on UI consistency and design reusability in Android development:
 
 ## 🎯 Why I Do This
 Open source isn’t just a side project—it's my way of sharing the tools I wish existed, and making development more enjoyable for others. Whether it's improving developer experience, abstracting repetitive logic, or enhancing UI interactivity, I create packages with **real-world use cases and long-term maintainability in mind**!
+
