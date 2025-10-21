@@ -1,13 +1,13 @@
 # 🤔 How I Fell Into the World of Code
-My coding journey began back in middle school when I first became fascinated with Java. Soon after, I started learning C, which gave me a deeper understanding of how computers work at a fundamental level.
+My coding journey began back in middle school when I first became fascinated with Java. I got into Minecraft scripting, plugins, and mods, and I was instantly hooked. The feeling of creating and controlling my own world, almost like being a god, was incredibly thrilling. Soon after, I started learning C, which gave me a deeper understanding of how computers work at a fundamental level.
 
-During that time, I realized the underlying causes of memory leaks—not just experiencing them, but truly understanding how they happen.
+During that time, I realized the underlying causes of memory leaks, not just experiencing them, but truly understanding how they happen.
 
 After that, I gradually became more and more interested in object-oriented programming.
 
-A year or two later, I started exploring web development, which naturally led to an interest in mobile apps. Then I discovered Flutter, and I absolutely fell in love with it—so much that I almost treated it like a favorite character.
+A year or two later, I started exploring web development, which naturally led to an interest in mobile apps. Then I discovered Flutter and I absolutely fell in love with it, so much that I almost treated it like a favorite character.
 
-From there, I studied Jetpack Compose, and after buying a MacBook, I began learning Swift, which eventually led me to SwiftUI. Since then, I have been consistently developing and maintaining packages for both Flutter and Jetpack Compose.
+From there, I studied Jetpack Compose, and after buying a MacBook, I began learning Swift, which eventually led me to SwiftUI. Since then, I have been consistently developing and maintaining packages for both Flutter and Jetpack Compose, and I even had the valuable experience of contributing to the official Flutter SDK.
 
 ![ebcdaf970dcc7ca138eabbb767472943_139900](https://github.com/user-attachments/assets/56f8f530-a063-41c0-bec2-7fa82cd76cb0)
 
@@ -73,6 +73,7 @@ Focusing on UI consistency and design reusability in Android development:
 
 ## 🎯 Why I Do This
 Open source isn’t just a side project—it's my way of sharing the tools I wish existed, and making development more enjoyable for others. Whether it's improving developer experience, abstracting repetitive logic, or enhancing UI interactivity, I create packages with **real-world use cases and long-term maintainability in mind**!
+
 
 
 
