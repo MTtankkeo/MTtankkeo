@@ -48,6 +48,11 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | [flutter_scroll_bottom_sheet](https://pub.dev/packages/flutter_scroll_bottom_sheet) | 2025-07-29 | A bottom sheet widget that syncs smoothly with scroll events for a seamless UX. |
 | [hero_container](https://pub.dev/packages/hero_container) | 2025-08-19 | Smooth animated transitions between widgets using snapshot-based animations. Inspired by OpenContainer with enhanced performance for complex layouts. |
 | [keystore_signature](https://pub.dev/packages/keystore_signature) | 2025-10-15 | A Flutter plugin to retrieve Android app signature hash keys and convert them into SHA/MD5 hashes in Hex or Base64 format. |
+| [git_config](https://pub.dev/packages/git_config) | 2025-10-17 | A Dart CLI to fetch config files from a remote Git repository into the project. |
+| [prepare](https://pub.dev/packages/prepare) | 2025-10-26 | A Dart library that helps manage and configure Dart code generators. |
+| [datagen](https://pub.dev/packages/datagen) | 2025-10-26 | A Dart CLI tool for analyzer-based, extremely fast and clean data class code generation. |
+| [resourcegen](https://pub.dev/packages/resourcegen) | 2025-10-28 | A Dart CLI tool for generating code for static resources using a prepare-based workflow. |
+| [mvvm_service](https://pub.dev/packages/mvvm_service) | 2025-10-29 | A Flutter-native service layer that embraces Flutter dynamic widget lifecycle instead of static provider graphs. |
 
 ## ![npm](https://github.com/user-attachments/assets/c6e85c28-46ee-4afe-b528-44adfae681e4) NPM (JavaScript / React)
 Covering animation, layout systems, utility functions, and build tool enhancements:
@@ -73,6 +78,7 @@ Focusing on UI consistency and design reusability in Android development:
 
 ## 🎯 Why I Do This
 Open source isn’t just a side project—it's my way of sharing the tools I wish existed, and making development more enjoyable for others. Whether it's improving developer experience, abstracting repetitive logic, or enhancing UI interactivity, I create packages with **real-world use cases and long-term maintainability in mind**!
+
 
 
 
