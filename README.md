@@ -32,9 +32,6 @@
 ![redis](https://github.com/user-attachments/assets/88b2a591-7dfc-496e-b2d3-7f01a349c99b)
 ![docker](https://github.com/user-attachments/assets/2c876c26-6c44-40e0-b189-e167846a6995)
 ![liquibase](https://github.com/user-attachments/assets/f557d738-cdef-4f59-804a-14d0ad8ff6bb)
-<br>
-![c, c#](https://github.com/user-attachments/assets/2b11002d-25b0-4c55-baeb-6f8a9314e32f)
-<br>
 
 <table>
   <thead>
