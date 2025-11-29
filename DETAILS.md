@@ -53,6 +53,7 @@ These packages are designed to extend Flutter’s core capabilities with powerfu
 | [datagen](https://pub.dev/packages/datagen) | 2025-10-26 | A Dart CLI tool for analyzer-based, extremely fast and clean data class code generation. |
 | [resourcegen](https://pub.dev/packages/resourcegen) | 2025-10-28 | A Dart CLI tool for generating code for static resources using a prepare-based workflow. |
 | [mvvm_service](https://pub.dev/packages/mvvm_service) | 2025-10-29 | A Flutter-native service layer that embraces Flutter dynamic widget lifecycle instead of static provider graphs. |
+| [pubspec_version_tool](https://pub.dev/packages/pubspec_version_tool) | 2025-11-30 | A Dart CLI to manage and update the version in pubspec.yaml |
 
 ## ![npm](https://github.com/user-attachments/assets/c6e85c28-46ee-4afe-b528-44adfae681e4) NPM (JavaScript / React)
 Covering animation, layout systems, utility functions, and build tool enhancements:
@@ -78,6 +79,7 @@ Focusing on UI consistency and design reusability in Android development:
 
 ## 🎯 Why I Do This
 Open source isn’t just a side project—it's my way of sharing the tools I wish existed, and making development more enjoyable for others. Whether it's improving developer experience, abstracting repetitive logic, or enhancing UI interactivity, I create packages with **real-world use cases and long-term maintainability in mind**!
+
 
 
 
