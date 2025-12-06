@@ -1,8 +1,8 @@
 ## Hi there, I'm 장천룡
 > <img align="left" width="70" src="https://github.com/user-attachments/assets/e3398011-04b7-4380-9370-92f3197c7871">
 
-> __SIMPLE INTRO__<br>
-> I'm always striving to enhance user experiences as a __front-end developer__, And studying back-end.<br>
+> __INTRODUCTION__<br>
+> I’m a Flutter front-end developer who goes beyond simple implementations to bring UI to life.<br>
 > [🔍 Details](DETAILS.md), [🚀 My Open Source Contributions](CONTRIBUTION.md)
 
 ### Useable Frameworks
