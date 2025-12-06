@@ -3,6 +3,7 @@ I make a continuous effort to contribute to or create open-source projects to en
 
 ## ![logo](https://github.com/user-attachments/assets/6cad9614-6ea4-4402-bf6a-8ece0753573e) Flutter
 - [#169293](https://github.com/flutter/flutter/pull/169293) [(Notable Commit)](https://github.com/flutter/flutter/issues/161460) - Implements the Android native stretch effect as a fragment shader (Impeller-only).
+- [#173849](https://github.com/flutter/flutter/pull/173849) - Reimplemented StretchingOverscrollIndicator with Simulation ported from Android 12.
 
 ## ![logo](https://github.com/user-attachments/assets/8969ce91-a513-49ce-9874-ef0d297f5c45) VsCode Material Icon Theme
 
@@ -12,5 +13,6 @@ I make a continuous effort to contribute to or create open-source projects to en
 - [#2526](https://github.com/material-extensions/vscode-material-icon-theme/pull/2526) - feat: add folder icons for element and elements folders
 - [#2757](https://github.com/material-extensions/vscode-material-icon-theme/pull/2757) - feat: feat(icons): add folder icons for liquibase
 - [#2869](https://github.com/material-extensions/vscode-material-icon-theme/pull/2869) - feat: add folder icons for about dart
+
 
 
