@@ -1,5 +1,5 @@
 ## Hi there, I'm 장천룡
-> <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" alt="Face with Tongue" width="75" height="75" />
+> <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" alt="Face with Tongue" width="70" height="70" />
 
 > __INTRODUCTION__<br>
 > I’m a front-end developer who goes beyond simple implementations to bring UI to life.<br>
