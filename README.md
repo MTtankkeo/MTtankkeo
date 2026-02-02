@@ -2,36 +2,99 @@
 > <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" alt="Face with Tongue" width="70" height="70" />
 
 > __INTRODUCTION__<br>
-> I’m a front-end developer who goes beyond simple implementations to bring UI to life.<br>
-> [🔍 Details](DETAILS.md), [🚀 My Open Source Contributions](CONTRIBUTION.md)
+> A cute aspiring front-end dev, dreaming of becoming a software engineer, nya~<br>
+> [🔍 About Me](DETAILS.md), [🚀 Open Source Activity](CONTRIBUTION.md)
 
 ### Useable Frameworks
-<a href="https://flutter.dev/"><img src="https://github.com/user-attachments/assets/8bbdb3ab-ce90-4520-82b0-257ced0ca9c6"></a>
-<a href="https://developer.android.com/compose"><img src="https://github.com/user-attachments/assets/1a231992-2c46-4100-bc93-24b6cb752f96"></a>
-<a href="https://developer.apple.com/documentation/uikit"><img src="https://github.com/user-attachments/assets/353ad616-4cb9-4176-b149-221137dd1b1a"></a>
-<a href="https://developer.apple.com/kr/xcode/swiftui/"><img src="https://github.com/user-attachments/assets/2fc03d48-c7a1-4bb1-8316-c37efa6c97cf"></a>
-<a href="https://react.dev/"><img src="https://github.com/user-attachments/assets/fb323671-dddc-422a-a9e9-d012c8736429"></a>
-<a href="https://svelte.dev/"><img src="https://github.com/user-attachments/assets/66997418-8fef-41ee-9caf-6ec2d18b9c95"></a>
-<a href="https://vuejs.org/"><img src="https://github.com/user-attachments/assets/1c27fcf0-ab10-4f7d-be29-7e53caaf3501"></a>
+<a href="https://flutter.dev/"><img alt="flutter" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/flutter.svg"></a>
+<a href="https://developer.android.com/compose"><img alt="jetpack_compose" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/jetpack_compose.svg"></a>
+<a href="https://developer.apple.com/documentation/uikit"><img alt="ui_kit" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/ui_kit.svg"></a>
+<a href="https://developer.apple.com/kr/xcode/swiftui/"><img alt="swift_ui" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/swift_ui.svg"></a>
+<a href="https://react.dev/"><img alt="react" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/react.svg"></a>
+<a href="https://svelte.dev/"><img alt="svelte" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/svelte.svg"></a>
+<a href="https://vuejs.org/"><img alt="vuejs" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/vuejs.svg"></a>
 
 ### Useable Languages And Skill
-![java](https://github.com/user-attachments/assets/753cec15-d74d-4f52-988b-fcc92d39fab6)
-![kotlin](https://github.com/user-attachments/assets/8da341cd-5150-45f0-b3bd-32735d22ffbd)
-![dart](https://github.com/user-attachments/assets/ec5b5d5f-55ad-4769-8a76-30fb2e4eb3b2)
-![javascript](https://github.com/user-attachments/assets/50a2255b-d053-4ecc-9de3-85921c1a7014)
-![typescript](https://github.com/user-attachments/assets/3a0f8a70-43b5-4f9b-9d1f-607b2d151356)
-![html](https://github.com/user-attachments/assets/b2d78302-10fd-41a8-9cbb-dee9e165d5b1)
-![css](https://github.com/user-attachments/assets/1fa87f02-6196-4bbf-af6c-350b602382ea)
-![web_components](https://github.com/user-attachments/assets/2c521cd7-4e05-4610-acb6-6b14e08932cb)
-![python](https://github.com/user-attachments/assets/eb42850a-c343-4c1e-b4d9-7548ec8d8cf1)
-![swift](https://github.com/user-attachments/assets/4029aad5-6518-419e-bd97-51e92bcb9c7d)
-![go](https://github.com/user-attachments/assets/fb28c2ee-bb96-457d-8659-1bed1a787af2)
-![node.js](https://github.com/user-attachments/assets/77788d1d-bed0-46c7-add3-499e9cb12b96)
-![mysql](https://github.com/user-attachments/assets/f08d1f2d-10d6-4ecd-85d5-9de64cbb098a)
-![postgresql](https://github.com/user-attachments/assets/8883115e-6608-4f1d-bb78-501a3a111c73)
-![redis](https://github.com/user-attachments/assets/88b2a591-7dfc-496e-b2d3-7f01a349c99b)
-![docker](https://github.com/user-attachments/assets/2c876c26-6c44-40e0-b189-e167846a6995)
-![liquibase](https://github.com/user-attachments/assets/f557d738-cdef-4f59-804a-14d0ad8ff6bb)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/java.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/java.svg">
+  <img alt="java">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/kotlin.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/kotlin.svg">
+  <img alt="kotlin">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/dart.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/dart.svg">
+  <img alt="dart">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/javascript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/javascript.svg">
+  <img alt="javascript">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/typescript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/typescript.svg">
+  <img alt="typescript">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/html.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/html.svg">
+  <img alt="html">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/css.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/css.svg">
+  <img alt="css">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/python.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/python.svg">
+  <img alt="python">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/swift.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/swift.svg">
+  <img alt="swift">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/go.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/go.svg">
+  <img alt="go">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/node.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/node.svg">
+  <img alt="node">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/mysql.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/mysql.svg">
+  <img alt="mysql">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/postgresql.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/postgresql.svg">
+  <img alt="postgresql">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/redis.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/redis.svg">
+  <img alt="redis">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/docker.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/docker.svg">
+  <img alt="docker">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/liquibase.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/liquibase.svg">
+  <img alt="liquibase">
+</picture>
 
 <table>
   <thead>
