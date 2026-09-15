@@ -3,7 +3,7 @@
 
 > __INTRODUCTION__<br>
 > A cute aspiring front-end dev, dreaming of becoming a software engineer, nya~<br>
-> [🔍 About Me](DETAILS.md), [🚀 Open Source Activity](CONTRIBUTION.md)
+> [🔍 About Me](DETAILS.md), [🤝 Open Source Activity](CONTRIBUTION.md)
 
 ### Useable Frameworks
 <a href="https://flutter.dev/"><img alt="flutter" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/flutter.svg"></a>
@@ -99,7 +99,7 @@
 <table>
   <thead>
     <tr>
-      <th>🤝 Flutter Contributor (Physics & Shader)</th>
+      <th>Flutter Contributor (Physics & Shader)</th>
       <th>
         <a href="https://github.com/flutter/flutter/pull/169293">#169293</a>
         <a href="https://github.com/flutter/flutter/pull/173849">#173849</a>
