@@ -99,7 +99,7 @@
 <table>
   <thead>
     <tr>
-      <th>🏅 Flutter Contributor (Physics & Shader)</th>
+      <th>🤝 Flutter Contributor (Physics & Shader)</th>
       <th>
         <a href="https://github.com/flutter/flutter/pull/169293">#169293</a>
         <a href="https://github.com/flutter/flutter/pull/173849">#173849</a>
