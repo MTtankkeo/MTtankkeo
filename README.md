@@ -96,18 +96,5 @@
   <img alt="liquibase">
 </picture>
 
-<table>
-  <thead>
-    <tr>
-      <th>Flutter Contributor (Physics & Shader)</th>
-      <th>
-        <a href="https://github.com/flutter/flutter/pull/169293">#169293</a>
-        <a href="https://github.com/flutter/flutter/pull/173849">#173849</a>
-        <a href="https://github.com/flutter/flutter/pull/187568">#187568</a>
-      </th>
-    </tr>
-  </thead>
-</table>
-
 <img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0">
 
