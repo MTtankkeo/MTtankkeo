@@ -5,6 +5,7 @@ I make a continuous effort to contribute to or create open-source projects to en
 - [#169293](https://github.com/flutter/flutter/pull/169293) [(Notable Commit)](https://github.com/flutter/flutter/issues/161460) - Implements the Android native stretch effect as a fragment shader (Impeller-only).
 - [#173849](https://github.com/flutter/flutter/pull/173849) - Reimplemented StretchingOverscrollIndicator with Simulation ported from Android 12.
 - [#190025](https://github.com/flutter/flutter/pull/190025) - Fix Hero size changes during Navigator resize.
+- [#187568](https://github.com/flutter/flutter/pull/187568) - Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
 
 ## ![logo](https://github.com/user-attachments/assets/8969ce91-a513-49ce-9874-ef0d297f5c45) VsCode Material Icon Theme
 
