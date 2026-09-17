@@ -3,7 +3,7 @@
 
 > __INTRODUCTION__<br>
 > A cute aspiring front-end dev, dreaming of becoming a software engineer, nya~<br>
-> [🔍 About Me](DETAILS.md), [🤝 Open Source Activity](CONTRIBUTION.md)
+> [About Me](DETAILS.md), [Open Source Activity](CONTRIBUTION.md)
 
 ### Useable Frameworks
 <a href="https://flutter.dev/"><img alt="flutter" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/flutter.svg"></a>
