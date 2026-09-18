@@ -98,4 +98,10 @@
 
 <img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0">
 
-<a href="https://www.youtube.com/watch?v=QMxGJVIWF7k"><img src="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg" alt="Inner Spark (Instrumental) — Kirara Magic" width="460" /></a>
+<a href="https://www.youtube.com/watch?v=QMxGJVIWF7k">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-music.vercel.app/card/c_U1shsxpPzVDw2KBQ.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg">
+    <img src="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg" alt="Inner Spark (Instrumental) — Kirara Magic" width="460" />
+  </picture>
+</a>
