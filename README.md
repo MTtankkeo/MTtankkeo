@@ -100,7 +100,7 @@
 
 <a href="https://www.youtube.com/watch?v=QMxGJVIWF7k">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-music.vercel.app/card/c_U1shsxpPzVDw2KBQ.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-music.vercel.app/card/c_dC0NpAxiDKPfZPDx.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg">
     <img src="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg" alt="Inner Spark (Instrumental) — Kirara Magic" width="460" />
   </picture>
