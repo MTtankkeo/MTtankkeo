@@ -5,6 +5,8 @@
 > A cute aspiring front-end dev, dreaming of becoming a software engineer, nya~<br>
 > [About Me](DETAILS.md), [Open Source Activity](CONTRIBUTION.md)
 
+> *"The world is full of powerful figures who launch personal attacks, only to play the victim when called out. In plain terms: they're just oversized, spoiled brats."*
+
 ### Useable Frameworks
 <a href="https://flutter.dev/"><img alt="flutter" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/flutter.svg"></a>
 <a href="https://developer.android.com/compose"><img alt="jetpack_compose" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/jetpack_compose.svg"></a>
