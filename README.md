@@ -1,0 +1,104 @@
+<a href="https://github.com/MTtankkeo/MTtankkeo/blob/main/DETAILS.md">
+  <img width="2500" height="500" src="https://github.com/user-attachments/assets/6efb2ed4-02fc-4dd8-aa3e-5d114e488188" />
+</a>
+
+### Useable Frameworks
+<a href="https://flutter.dev/"><img alt="flutter" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/flutter.svg"></a>
+<a href="https://developer.android.com/compose"><img alt="jetpack_compose" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/jetpack_compose.svg"></a>
+<a href="https://developer.apple.com/documentation/uikit"><img alt="ui_kit" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/ui_kit.svg"></a>
+<a href="https://developer.apple.com/kr/xcode/swiftui/"><img alt="swift_ui" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/swift_ui.svg"></a>
+<a href="https://react.dev/"><img alt="react" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/react.svg"></a>
+<a href="https://svelte.dev/"><img alt="svelte" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/svelte.svg"></a>
+<a href="https://vuejs.org/"><img alt="vuejs" src="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/circle/vuejs.svg"></a>
+
+### Useable Languages & Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/java.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/java.svg">
+  <img alt="java">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/kotlin.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/kotlin.svg">
+  <img alt="kotlin">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/dart.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/dart.svg">
+  <img alt="dart">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/javascript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/javascript.svg">
+  <img alt="javascript">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/typescript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/typescript.svg">
+  <img alt="typescript">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/html.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/html.svg">
+  <img alt="html">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/css.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/css.svg">
+  <img alt="css">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/python.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/python.svg">
+  <img alt="python">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/swift.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/swift.svg">
+  <img alt="swift">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/go.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/go.svg">
+  <img alt="go">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/node.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/node.svg">
+  <img alt="node">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/mysql.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/mysql.svg">
+  <img alt="mysql">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/postgresql.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/postgresql.svg">
+  <img alt="postgresql">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/redis.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/redis.svg">
+  <img alt="redis">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/docker.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/docker.svg">
+  <img alt="docker">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/dark/liquibase.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MTtankkeo/github-profile-badges/raw/refs/heads/main/gen/square/light/liquibase.svg">
+  <img alt="liquibase">
+</picture>
+
+<img align="right" width=300 src="https://count.getloli.com/@MTtankkeo?name=miyagawamizu&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0">
+
+<a href="https://www.youtube.com/watch?v=QMxGJVIWF7k">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-music.vercel.app/card/c_dC0NpAxiDKPfZPDx.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg">
+    <img src="https://github-readme-music.vercel.app/card/c_sKdDlvzXXN2QBQi8.svg" alt="Inner Spark (Instrumental) — Kirara Magic" width="460" />
+  </picture>
+</a>

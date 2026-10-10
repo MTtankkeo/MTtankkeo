@@ -1,0 +1,20 @@
+## Introduction
+I make a continuous effort to contribute to or create open-source projects to encourage a healthy developer community.
+
+## ![logo](https://github.com/user-attachments/assets/6cad9614-6ea4-4402-bf6a-8ece0753573e) Flutter
+- [#169293](https://github.com/flutter/flutter/pull/169293) [(Notable Commit)](https://github.com/flutter/flutter/issues/161460) - Implements the Android native stretch effect as a fragment shader (Impeller-only).
+- [#173849](https://github.com/flutter/flutter/pull/173849) - Reimplemented StretchingOverscrollIndicator with Simulation ported from Android 12.
+- [#190025](https://github.com/flutter/flutter/pull/190025) - Fix Hero size changes during Navigator resize.
+- [#187568](https://github.com/flutter/flutter/pull/187568) - Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
+
+## ![logo](https://github.com/user-attachments/assets/8969ce91-a513-49ce-9874-ef0d297f5c45) VsCode Material Icon Theme
+
+- [#2501](https://github.com/material-extensions/vscode-material-icon-theme/pull/2501) - Added folder-icon about development.
+- [#2510](https://github.com/material-extensions/vscode-material-icon-theme/pull/2510) - Added folder-icon for snippet, snippets
+- [#2511](https://github.com/material-extensions/vscode-material-icon-theme/pull/2511) - Added folder-icon for flutter
+- [#2526](https://github.com/material-extensions/vscode-material-icon-theme/pull/2526) - feat: add folder icons for element and elements folders
+- [#2757](https://github.com/material-extensions/vscode-material-icon-theme/pull/2757) - feat: feat(icons): add folder icons for liquibase
+- [#2869](https://github.com/material-extensions/vscode-material-icon-theme/pull/2869) - feat: add folder icons for about dart
+
+
+
