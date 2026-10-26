@@ -1,5 +1,5 @@
 <a href="https://github.com/MTtankkeo/MTtankkeo/blob/main/DETAILS.md">
-  <img width="2500" height="500" src="https://github.com/user-attachments/assets/6efb2ed4-02fc-4dd8-aa3e-5d114e488188" />
+  <img width="3000" height="600" src="https://github.com/user-attachments/assets/0f1082eb-f367-4da1-98f2-73ebbe29c5e6" />
 </a>
 
 ### Useable Frameworks
